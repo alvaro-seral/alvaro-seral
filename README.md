@@ -1,6 +1,6 @@
 <picture>
-  <source media="(max-width: 767px)" srcset="">
-  <img align="right" alt="" src="./perfil_2_new.png" width=256px>
+  <source media="(max-width: 512px)" srcset="">
+  <img align="right" alt="" src="./perfil_2_new_transparente.png" width=128px>
 </picture>
 
 <br>
