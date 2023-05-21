@@ -18,3 +18,13 @@ Hello, and welcome to my GitHub profile! My name is Álvaro Seral, and I am a Co
 <br>
 
 flutter, c++, ... pero bonito
+
+<br>
+
+<!--<br> <img src="./linea.gif"> <br>-->
+
+## <picture> <img src = "./statistics_gif_2.gif" width = 35> </picture> **Stats**
+
+<br>
+
+flutter, c++, ... pero bonito
