@@ -28,5 +28,5 @@ flutter, c++, ... pero bonito
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alvaro-seral&show_icons=true&theme=transparent" height="150" alt="stats graph">
+  <img src="https://github-readme-stats.vercel.app/api?username=alvaro-seral&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" height="150" alt="stats graph">
 </div>
