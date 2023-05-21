@@ -1,7 +1,7 @@
 ## <picture> <img src = "./Mesa_de_trabajo_4.png" width = 40> </picture> **About me**
 
 <picture>
-  <source media="(max-width: 768px)" srcset="">
+  <source media="" srcset="">
   <img align="right" alt="" src="./perfil_2_new_transparente.png" width=128px>
 </picture>
 
@@ -27,4 +27,6 @@ flutter, c++, ... pero bonito
 
 <br>
 
-flutter, c++, ... pero bonito
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alvaro-seral&show_icons=true&theme=transparent" height="150" alt="stats graph">
+</div>
