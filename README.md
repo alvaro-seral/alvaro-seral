@@ -1,4 +1,4 @@
-## <picture> <img src = "./Mesa_de_trabajo_4.png" width = 25> </picture> **About me**
+## <picture> <img src = "./Mesa_de_trabajo_4.png" width = 35> </picture> **About me**
 
 <picture>
   <source media="(max-width: 768px)" srcset="">
@@ -13,7 +13,7 @@ Hello, and welcome to my GitHub profile! My name is Álvaro Seral, and I am a Co
 
 <!--<br> <img src="./linea.gif"> <br>-->
 
-## <picture> <img src = "./code_script_gif_2.gif" width = 25> </picture> **Skills**
+## <picture> <img src = "./code_script_gif_2.gif" width = 35> </picture> **Skills**
 
 <br>
 
