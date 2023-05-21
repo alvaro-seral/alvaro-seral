@@ -1,4 +1,4 @@
-## <picture><img src = "./pinguino_saluda.gif" width = 40></picture> **About me**
+## <picture><img src = "./pinguino_saluda.gif" width = 35></picture> **About me**
 
 <picture>
   <source media="(max-width: 768px)" srcset="">
