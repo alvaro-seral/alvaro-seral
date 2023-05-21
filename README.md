@@ -1,4 +1,4 @@
-## <picture><img src = "./code_script_gif_2.gif" width = 50px></picture> **About me**
+## <picture><img src = "./code_script_gif_2.gif" width = 25></picture> **About me**
 
 <picture>
   <source media="(max-width: 768px)" srcset="">
