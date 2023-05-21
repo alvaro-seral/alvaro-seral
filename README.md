@@ -1,5 +1,5 @@
 <picture>
-  <source media="(max-width: 512px)" srcset="">
+  <source media="(max-width: 768px)" srcset="">
   <img align="right" alt="" src="./perfil_2_new_transparente.png" width=128px>
 </picture>
 
