@@ -1,3 +1,5 @@
+## <picture><img src = "./code_script_gif_2.gif" width = 50px></picture> **About me**
+
 <picture>
   <source media="(max-width: 768px)" srcset="">
   <img align="right" alt="" src="./perfil_2_new_transparente.png" width=128px>
