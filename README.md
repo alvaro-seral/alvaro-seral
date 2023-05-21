@@ -11,7 +11,7 @@ Hello, and welcome to my GitHub profile! My name is Álvaro Seral, and I am a Co
 
 <br><br> <img src="./linea.gif"> <br>
 
-## <picture> <img src = "./code_script_gif_2.gif" width = 30> </picture> **Skills**
+## <picture> <img src = "./code_script_gif_2.gif" width = 30> </picture> ** Skills**
 
 <br>
 
