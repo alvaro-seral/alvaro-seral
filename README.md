@@ -1,4 +1,4 @@
-## <picture> <img src = "./pinguino_saluda_4.gif" width = 40> </picture> **About me**
+## <picture> <img src = "./pinguino_saluda_4.gif" width = 30> </picture> **About me**
 
 <picture>
   <source media="(max-width: 768px)" srcset="">
@@ -9,9 +9,9 @@
 
 Hello, and welcome to my GitHub profile! My name is Álvaro Seral, and I am a Computer Engineering student with a determination to learn and grow as persistent as a machine learning algorithm, constantly iterating to improve my skills and knowledge. I am excited to explore new frontiers, face challenges and make my mark in the digital world.
 
-<br><br> <img src="./linea.gif"> <br>
+<br><br> <img src="./linea.gif"> <br><br>
 
-## <picture> <img src = "./code_script_gif_2.gif" width = 40> </picture> **Skills**
+## <picture> <img src = "./code_script_gif_2.gif" width = 30> </picture> **Skills**
 
 <br>
 
