@@ -27,8 +27,6 @@ flutter, c++, ... pero bonito
 
 <br>
 
-*Note: Top Languages don't indicate my skill level, it's a Github metric of the languages in which I have the most code on Github.*
-
 <div align="center" margin-right=10px>
   <img src="https://github-readme-stats.vercel.app/api?username=alvaro-seral&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&title_color=ccd6f6&text_color=ccd6f6&icon_color=ccd6f6&border_color=ccd6f6&bg_color=09182f" height="150" alt="stats graph">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alvaro-seral&layout=compact&border_radius=10&title_color=ccd6f6&text_color=ccd6f6&border_color=ccd6f6&bg_color=09182f" height="150" alt="languages graph">
