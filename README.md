@@ -1,7 +1,7 @@
 ## <picture> <img src = "./Mesa_de_trabajo_4.png" width = 40> </picture> **About me**
 
 <picture>
-  <source media="" srcset="">
+  <source media="(max-width: 768px)" srcset="">
   <img align="right" alt="" src="./perfil_2_new_transparente.png" width=128px>
 </picture>
 
@@ -27,6 +27,11 @@ flutter, c++, ... pero bonito
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alvaro-seral&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" height="150" alt="stats graph">
+*Note: Top Languages don't indicate my skill level, it's a Github metric of the languages in which I have the most code on Github.*
+
+<div align="center" margin-right=10px>
+  <img src="https://github-readme-stats.vercel.app/api?username=alvaro-seral&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&title_color=ccd6f6&text_color=ccd6f6&icon_color=ccd6f6&border_color=ccd6f6&bg_color=09182f" height="150" alt="stats graph">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alvaro-seral&layout=compact&border_radius=10&title_color=ccd6f6&text_color=ccd6f6&border_color=ccd6f6&bg_color=09182f" height="150" alt="languages graph">
 </div>
+
+<br>
