@@ -9,6 +9,19 @@
 
 Hello, and welcome to my GitHub profile! My name is Álvaro Seral, and I am a Computer Engineering student with a determination to learn and grow as persistent as a machine learning algorithm, constantly iterating to improve my skills and knowledge. I am excited to explore new frontiers, face challenges and make my mark in the digital world.
 
+<br>
+
+<!--<br> <img src="./linea.gif"> <br>-->
+
+## <picture> <img src = "./statistics_gif_2.gif" width = 35> </picture> **Stats**
+
+<br>
+
+<div align="center" margin-right=10px>
+  <img src="https://github-readme-stats.vercel.app/api?username=alvaro-seral&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&title_color=ccd6f6&text_color=ccd6f6&icon_color=ccd6f6&border_color=ccd6f6&bg_color=09182f" height="175" alt="stats graph">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alvaro-seral&layout=compact&border_radius=10&title_color=ccd6f6&text_color=ccd6f6&border_color=ccd6f6&bg_color=09182f" height="175" alt="languages graph">
+</div>
+
 <br> 
 
 <!--<br> <img src="./linea.gif"> <br>-->
@@ -40,18 +53,5 @@ Hello, and welcome to my GitHub profile! My name is Álvaro Seral, and I am a Co
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-
-<br>
-
-<!--<br> <img src="./linea.gif"> <br>-->
-
-## <picture> <img src = "./statistics_gif_2.gif" width = 35> </picture> **Stats**
-
-<br>
-
-<div align="center" margin-right=10px>
-  <img src="https://github-readme-stats.vercel.app/api?username=alvaro-seral&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&title_color=ccd6f6&text_color=ccd6f6&icon_color=ccd6f6&border_color=ccd6f6&bg_color=09182f" height="175" alt="stats graph">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alvaro-seral&layout=compact&border_radius=10&title_color=ccd6f6&text_color=ccd6f6&border_color=ccd6f6&bg_color=09182f" height="175" alt="languages graph">
-</div>
 
 <br>
