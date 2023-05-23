@@ -1,4 +1,4 @@
-## <picture> <img src = "./Mesa_de_trabajo_4.png" width = 40> </picture> **About me**
+## <picture> <img src = "./Mesa_de_trabajo_4.png" width = 40> </picture> **About Me**
 
 <picture>
   <source media="(max-width: 768px)" srcset="">
@@ -28,7 +28,7 @@ Hello, and welcome to my GitHub profile! My name is Álvaro Seral, and I am a Co
 
 ## <picture> <img src = "./code_script_gif_2.gif" width = 35> </picture> **Skills**
 
-### **• Programming Languages**
+### **• Languages**
 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
